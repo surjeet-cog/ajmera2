@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.253" height="64.668" viewBox="0 0 63.253 64.668">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_770" data-name="Rectangle 770" width="63.253" height="64.668" fill="none" stroke="#cb1e28" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_7775" data-name="Group 7775" transform="translate(-517.162 -2351)">
+    <g id="Group_7716" data-name="Group 7716" transform="translate(517.162 2351)">
+      <g id="Group_7717" data-name="Group 7717">
+        <g id="Group_7716-2" data-name="Group 7716" clip-path="url(#clip-path)">
+          <path id="Path_801" data-name="Path 801" d="M12.966,64.618V1H62.614V64.618" transform="translate(-6.164 -0.475)" fill="none" stroke="#03060c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <path id="Path_802" data-name="Path 802" d="M51.415,6.638l-2.2,3.965h4.406Z" transform="translate(-23.393 -3.155)" fill="#03060c"/>
+      <path id="Path_803" data-name="Path 803" d="M65.158,10.6l-2.2-3.965h4.406Z" transform="translate(-29.926 -3.155)" fill="#03060c"/>
+      <line id="Line_485" data-name="Line 485" y1="8.995" transform="translate(27.907 25.349)" fill="none" stroke="#cb1e28" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_486" data-name="Line 486" y2="8.995" transform="translate(35.346 25.349)" fill="none" stroke="#cb1e28" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_771" data-name="Rectangle 771" width="41.702" height="49.223" transform="translate(10.776 9.946)" fill="none" stroke="#03060c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_487" data-name="Line 487" y1="49.223" transform="translate(31.627 9.945)" fill="none" stroke="#03060c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Group_7719" data-name="Group 7719">
+        <g id="Group_7718" data-name="Group 7718" clip-path="url(#clip-path)">
+          <line id="Line_488" data-name="Line 488" x2="62.204" transform="translate(0.525 64.143)" fill="none" stroke="#cb1e28" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

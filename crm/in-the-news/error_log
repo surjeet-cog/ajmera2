@@ -1,0 +1,10 @@
+[18-Nov-2026 10:58:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'webtesting_ajmera.investor_inthenews' doesn't exist in /home/webtesting/public_html/ajmera/crm/in-the-news/index.php:6
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/in-the-news/index.php(6): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/in-the-news/index.php on line 6
+[18-Nov-2026 10:58:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'webtesting_ajmera.investor_inthenews' doesn't exist in /home/webtesting/public_html/ajmera/crm/in-the-news/index.php:6
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/in-the-news/index.php(6): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/in-the-news/index.php on line 6

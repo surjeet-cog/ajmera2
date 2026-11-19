@@ -1,0 +1,52 @@
+Array
+(
+    [Date] => 2026-11-19 07:31:22
+    [Website Lead ID] => 8
+    [Payload] => Array
+        (
+            [firstName] => cc
+            [lastName] => cc
+            [email] => cc@gmail.com
+            [mobilePhone] => +919999999999
+            [comments] => cc
+            [originFrom] => Website
+            [campaign] => General Enquiries
+            [isUpdatefromUIDate] => 
+            [isImported] => 1
+            [DumpdataObjectId] => 2026111907312228319f70
+            [tenantId] => 103
+        )
+
+    [HTTP Code] => 200
+    [Response] => {"status":true,"message":"Sync request accepted."}
+    [cURL Error] => 
+    [CRM Synced] => 1
+)
+
+----------------------------------------
+Array
+(
+    [Date] => 2026-11-19 07:31:56
+    [Website Lead ID] => 9
+    [Payload] => Array
+        (
+            [firstName] => Conatct
+            [lastName] => Lead
+            [email] => contact@gmail.com
+            [mobilePhone] => +919898989898
+            [comments] => test lead contact us page
+            [originFrom] => Website
+            [campaign] => General Enquiries
+            [isUpdatefromUIDate] => 
+            [isImported] => 1
+            [DumpdataObjectId] => 20261119073156e28ccba9
+            [tenantId] => 103
+        )
+
+    [HTTP Code] => 200
+    [Response] => {"status":true,"message":"Sync request accepted."}
+    [cURL Error] => 
+    [CRM Synced] => 1
+)
+
+----------------------------------------

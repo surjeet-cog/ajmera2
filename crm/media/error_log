@@ -1,0 +1,77 @@
+[07-Oct-2026 13:29:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'webtesting_ajmera.news' doesn't exist in /home/webtesting/public_html/ajmera/crm/media/index.php:26
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/index.php(26): mysqli->query('\r\n    SELECT\r\n ...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/index.php on line 26
+[07-Oct-2026 13:30:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'webtesting_ajmera.news' doesn't exist in /home/webtesting/public_html/ajmera/crm/media/index.php:26
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/index.php(26): mysqli->query('\r\n    SELECT\r\n ...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/index.php on line 26
+[07-Oct-2026 13:30:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'webtesting_ajmera.news' doesn't exist in /home/webtesting/public_html/ajmera/crm/media/index.php:26
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/index.php(26): mysqli->query('\r\n    SELECT\r\n ...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/index.php on line 26
+[07-Oct-2026 13:32:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'webtesting_ajmera.news' doesn't exist in /home/webtesting/public_html/ajmera/crm/media/add.php:122
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(122): mysqli->prepare('\r\n            I...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 122
+[07-Oct-2026 13:32:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'webtesting_ajmera.news' doesn't exist in /home/webtesting/public_html/ajmera/crm/media/add.php:122
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(122): mysqli->prepare('\r\n            I...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 122
+[07-Oct-2026 13:33:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'read_time' at row 1 in /home/webtesting/public_html/ajmera/crm/media/add.php:144
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(144): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 144
+[07-Oct-2026 13:33:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'read_time' at row 1 in /home/webtesting/public_html/ajmera/crm/media/add.php:144
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(144): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 144
+[07-Oct-2026 13:34:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'media_date' cannot be null in /home/webtesting/public_html/ajmera/crm/media/add.php:211
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(211): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 211
+[07-Oct-2026 13:34:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'media_date' cannot be null in /home/webtesting/public_html/ajmera/crm/media/add.php:211
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(211): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 211
+[08-Oct-2026 04:54:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'media_date' cannot be null in /home/webtesting/public_html/ajmera/crm/media/add.php:211
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(211): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 211
+[08-Oct-2026 04:55:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'media_date' cannot be null in /home/webtesting/public_html/ajmera/crm/media/add.php:211
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(211): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 211
+[08-Oct-2026 04:56:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/media/add.php on line 227
+[08-Oct-2026 04:57:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/media/add.php on line 227
+[28-Oct-2026 13:29:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xE2\x82\xB91,7...' for column 'title' at row 1 in /home/webtesting/public_html/ajmera/crm/media/add.php:213
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 213
+[05-Nov-2026 06:02:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xE2\x82\xB91,7...' for column 'title' at row 1 in /home/webtesting/public_html/ajmera/crm/media/add.php:213
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 213
+[05-Nov-2026 06:05:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xE2\x82\xB91,4...' for column 'title' at row 1 in /home/webtesting/public_html/ajmera/crm/media/add.php:213
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/add.php(213): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/add.php on line 213
+[05-Nov-2026 06:06:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xE2\x82\xB91,4...' for column 'title' at row 1 in /home/webtesting/public_html/ajmera/crm/media/edit.php:279
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/media/edit.php(279): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/media/edit.php on line 279

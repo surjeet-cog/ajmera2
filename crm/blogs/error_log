@@ -1,0 +1,315 @@
+[11-Sep-2026 10:55:30 UTC] PHP Warning:  require_once(../config.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/aarize_new/crm/blogs/index.php on line 2
+[11-Sep-2026 10:55:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/aarize_new/crm/blogs/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/aarize_new/crm/blogs/index.php on line 2
+[11-Sep-2026 11:10:06 UTC] PHP Warning:  require_once(../dbc.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/aarize_new/crm/blogs/index.php on line 2
+[11-Sep-2026 11:10:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../dbc.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/aarize_new/crm/blogs/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/aarize_new/crm/blogs/index.php on line 2
+[11-Sep-2026 11:10:11 UTC] PHP Warning:  require_once(../dbc.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/aarize_new/crm/blogs/index.php on line 2
+[11-Sep-2026 11:10:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../dbc.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/aarize_new/crm/blogs/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/aarize_new/crm/blogs/index.php on line 2
+[11-Sep-2026 11:19:30 UTC] PHP Warning:  require_once(../dbc.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/aarize_new/crm/blogs/add.php on line 2
+[11-Sep-2026 11:19:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../dbc.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/aarize_new/crm/blogs/add.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/aarize_new/crm/blogs/add.php on line 2
+[11-Sep-2026 11:19:32 UTC] PHP Warning:  require_once(../dbc.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/aarize_new/crm/blogs/add.php on line 2
+[11-Sep-2026 11:19:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../dbc.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/aarize_new/crm/blogs/add.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/aarize_new/crm/blogs/add.php on line 2
+[07-Oct-2026 11:09:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:09:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:09:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:09:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:09:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:09:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:09:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:09:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:09:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:09:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:09:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:09:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:11:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:11:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:11:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:11:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:11:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:11:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:11:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:11:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:11:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:11:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:13:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:13:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:13:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:13:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:13:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:13:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:23:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:23:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:24:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:24:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:27:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:27:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:27:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:27:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:27:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:27:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:27:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:27:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:27:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:27:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:27:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:27:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:27:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:27:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:27:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:27:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:28:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:28:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:28:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:28:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:29:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:29:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:29:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:29:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:29:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:29:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:29:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:29:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:29:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:32
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(32): mysqli->query('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 32
+[07-Oct-2026 11:29:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:32
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(32): mysqli->query('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 32
+[07-Oct-2026 11:29:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:32
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(32): mysqli->query('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 32
+[07-Oct-2026 11:29:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:32
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(32): mysqli->query('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 32
+[07-Oct-2026 11:29:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:32
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(32): mysqli->query('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 32
+[07-Oct-2026 11:29:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:32
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(32): mysqli->query('\r\n    SELECT id...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 32
+[07-Oct-2026 11:30:21 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:22 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:22 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:23 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:23 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:30 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:31 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:31 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:31 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:35 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:35 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:36 UTC] PHP Warning:  require_once(auth.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'auth.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/webtesting/public_html/ajmera/crm/blogs/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 7
+[07-Oct-2026 11:30:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:10
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(10): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 10
+[07-Oct-2026 11:31:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:10
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(10): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 10
+[07-Oct-2026 11:31:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:10
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(10): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 10
+[07-Oct-2026 11:31:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:10
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(10): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 10
+[07-Oct-2026 11:31:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:10
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(10): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 10
+[07-Oct-2026 11:31:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:10
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(10): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 10
+[07-Oct-2026 11:31:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/index.php:10
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/index.php(10): mysqli->query('SELECT id, titl...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/index.php on line 10
+[07-Oct-2026 11:33:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/webtesting/public_html/ajmera/crm/auth.php on line 4
+[07-Oct-2026 11:33:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/auth.php on line 20
+[07-Oct-2026 11:34:39 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:34:39 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:34:39 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:34:45 UTC] PHP Warning:  Undefined array key "image_path" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 41
+[07-Oct-2026 11:34:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'faq' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/edit.php:61
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/edit.php(61): mysqli->query('UPDATE blogs SE...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 61
+[07-Oct-2026 11:34:57 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:34:57 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:34:57 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:35:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'faq' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/add.php:49
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/add.php(49): mysqli->query('INSERT INTO blo...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/add.php on line 49
+[07-Oct-2026 11:37:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:37:02 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:37:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:37:19 UTC] PHP Warning:  Undefined array key "image_path" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 41
+[07-Oct-2026 11:37:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'faq' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/edit.php:61
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/edit.php(61): mysqli->query('UPDATE blogs SE...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 61
+[07-Oct-2026 11:37:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:37:21 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:37:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:37:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:37:36 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:37:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:37:38 UTC] PHP Warning:  Undefined array key "image_path" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 41
+[07-Oct-2026 11:37:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'faq' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/edit.php:61
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/edit.php(61): mysqli->query('UPDATE blogs SE...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 61
+[07-Oct-2026 11:37:42 UTC] PHP Warning:  Undefined array key "image_path" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 41
+[07-Oct-2026 11:37:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'faq' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/edit.php:61
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/edit.php(61): mysqli->query('UPDATE blogs SE...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 61
+[07-Oct-2026 11:37:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:37:43 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:37:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:43:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:43:34 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:43:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:43:36 UTC] PHP Warning:  Undefined array key "image_path" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 41
+[07-Oct-2026 11:43:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'faq' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/edit.php:61
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/edit.php(61): mysqli->query('UPDATE blogs SE...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 61
+[07-Oct-2026 11:43:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:43:37 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:43:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:44:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:44:34 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:44:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:45:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:45:12 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:45:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:45:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:45:21 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:45:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:45:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'faq' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/edit.php:61
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/edit.php(61): mysqli->query('UPDATE blogs SE...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 61
+[07-Oct-2026 11:45:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'faq' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/edit.php:61
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/edit.php(61): mysqli->query('UPDATE blogs SE...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 61
+[07-Oct-2026 11:46:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:46:09 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:46:09 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:49:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 156
+[07-Oct-2026 11:49:37 UTC] PHP Warning:  Undefined array key "schema_code" in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:49:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 160
+[07-Oct-2026 11:51:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 310
+[07-Oct-2026 11:51:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/blogs/edit.php on line 310
+[07-Oct-2026 11:59:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'faq' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/add.php:53
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/add.php(53): mysqli->query('INSERT INTO blo...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/add.php on line 53
+[07-Oct-2026 12:01:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'image_path' in 'field list' in /home/webtesting/public_html/ajmera/crm/blogs/delete.php:11
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/crm/blogs/delete.php(11): mysqli->query('SELECT image_pa...')
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/crm/blogs/delete.php on line 11
+[07-Oct-2026 12:01:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/blogs/delete.php on line 118
+[07-Oct-2026 12:02:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/blogs/delete.php on line 118
+[07-Oct-2026 12:02:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/dbc.php:1) in /home/webtesting/public_html/ajmera/crm/blogs/delete.php on line 144

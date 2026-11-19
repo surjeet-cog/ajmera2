@@ -1,0 +1,41 @@
+[19-Nov-2026 07:21:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'project' doesn't have a default value in /home/webtesting/public_html/ajmera/contact_form_backend.php:78
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/contact_form_backend.php(78): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 78
+[19-Nov-2026 07:21:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'project' doesn't have a default value in /home/webtesting/public_html/ajmera/contact_form_backend.php:78
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/contact_form_backend.php(78): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 78
+[19-Nov-2026 07:21:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'project' doesn't have a default value in /home/webtesting/public_html/ajmera/contact_form_backend.php:78
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/contact_form_backend.php(78): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 78
+[19-Nov-2026 07:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendResponse() in /home/webtesting/public_html/ajmera/contact_form_backend.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 28
+[19-Nov-2026 07:22:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'project' doesn't have a default value in /home/webtesting/public_html/ajmera/contact_form_backend.php:78
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/contact_form_backend.php(78): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 78
+[19-Nov-2026 07:23:05 UTC] PHP Warning:  require_once(/home/webtesting/public_html/ajmeradbc.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 11
+[19-Nov-2026 07:23:05 UTC] 2026-11-19 07:23:05 - Failed opening required '/home/webtesting/public_html/ajmeradbc.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear')
+[19-Nov-2026 07:23:24 UTC] PHP Warning:  require_once(/home/webtesting/public_html/ajmeradbc.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 11
+[19-Nov-2026 07:23:24 UTC] 2026-11-19 07:23:24 - Failed opening required '/home/webtesting/public_html/ajmeradbc.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear')
+[19-Nov-2026 07:23:38 UTC] PHP Warning:  require_once(/home/webtesting/public_html/ajmeradbc.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 11
+[19-Nov-2026 07:23:38 UTC] 2026-11-19 07:23:38 - Failed opening required '/home/webtesting/public_html/ajmeradbc.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear')
+[19-Nov-2026 07:23:46 UTC] PHP Warning:  require_once(/home/webtesting/public_html/ajmeradbc.php): Failed to open stream: No such file or directory in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 11
+[19-Nov-2026 07:23:46 UTC] 2026-11-19 07:23:46 - Failed opening required '/home/webtesting/public_html/ajmeradbc.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear')
+[19-Nov-2026 07:24:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'project' doesn't have a default value in /home/webtesting/public_html/ajmera/contact_form_backend.php:78
+Stack trace:
+#0 /home/webtesting/public_html/ajmera/contact_form_backend.php(78): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 78
+[19-Nov-2026 07:25:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/contact_form_backend.php:1) in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 11
+[19-Nov-2026 07:25:21 UTC] 2026-11-19 07:25:21 - Field 'project' doesn't have a default value in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 74
+[19-Nov-2026 07:25:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webtesting/public_html/ajmera/contact_form_backend.php:1) in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 11
+[19-Nov-2026 07:25:30 UTC] 2026-11-19 07:25:30 - Field 'project' doesn't have a default value in /home/webtesting/public_html/ajmera/contact_form_backend.php on line 74

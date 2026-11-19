@@ -1,0 +1,24 @@
+Array
+(
+    [Date] => 2026-11-17 13:23:03
+    [Website Lead ID] => 46
+    [DumpdataObjectId] => 20261117132303bec1eb79
+    [HTTP Code] => 200
+    [Response] => {"status":true,"message":"Sync request accepted."}
+    [cURL Error] => 
+    [CRM Synced] => 1
+)
+
+----------------------------------------
+Array
+(
+    [Date] => 2026-11-17 13:24:48
+    [Website Lead ID] => 47
+    [DumpdataObjectId] => 20261117132448b9fd3c96
+    [HTTP Code] => 200
+    [Response] => {"status":true,"message":"Sync request accepted."}
+    [cURL Error] => 
+    [CRM Synced] => 1
+)
+
+----------------------------------------
